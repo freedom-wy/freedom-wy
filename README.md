@@ -6,3 +6,4 @@
 - 💬 获得证书：CCIE Security，CCNP，RHCE
 - 🤔 慕课网python爬虫讲师：[主讲课程](https://www.imooc.com/t/6685330)
 - 🏅 微信公众号:dazhuang_coder
+- 🍭 Email:dazhuang_python@sina.com
